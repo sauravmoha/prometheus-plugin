@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^0.18.0",
+    "lodash": "^4.17.10"
+  },
+  "name": "prometheus-plugin",
+  "version": "0.0.0",
+  "description": "Helps to alert on API calls",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sourav.m",
+  "license": "ISC"
+}
